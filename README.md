@@ -1,6 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+Using Unity
 
 ## References
 
@@ -12,6 +13,8 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+Adding more levels, sound, etc.
 
 ## Created by
-Nathan Mishler
+Abraham Stone
+
